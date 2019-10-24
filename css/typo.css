@@ -1,0 +1,48 @@
+/* body 默认样式 */
+body {
+    font-family: 'Concert One', cursive;
+    margin: 0;
+}
+
+p, h2, h3 {
+    text-align: justify;
+    font-family: 'Kalam', cursive;
+}
+
+/* 主标题字体样式 */
+.header h1 {
+    font-size: 120px;
+    font-family: 'Mansalva', cursive;
+    text-align: center;
+    color: white;
+}
+
+.nav a {
+    font-size: 28px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.abeille h2 {}
+
+.intro {
+	/*font-size: ;*/
+}
+
+.info h3 {}
+
+.bt {
+    text-align: center;
+	/*font-size: ;*/
+}
+
+.main h2 {}
+
+.contenu {
+    font-size: 28px;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+.next, .pre {
+	font-size: 30px;
+	text-align: center;
+}

@@ -1,25 +1,33 @@
 /* body 默认样式 */
 body {
-    font-family: 'Concert One', cursive;
+
+    font-family: 'Texturina', serif;
     margin: 0;
 }
 
-p, h2, h3 {
+ h2, h3 {
+   font-size: 30px;
     text-align: justify;
-    font-family: 'Kalam', cursive;
+    font-family: 'Texturina', serif;
+}
+p {
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+  line-height:150%
 }
 
 /* 主标题字体样式 */
 .header h1 {
-    font-size: 120px;
-    font-family: 'Mansalva', cursive;
+    font-size: 80px;
+    font-family: 'Press Start 2P', cursive;
     text-align: center;
     color: white;
 }
 
+
 .nav a {
-    font-size: 28px;
-    font-family: 'Indie Flower', cursive;
+    font-size: 22px;
+    font-family: 'Texturina', serif;
 }
 
 .abeille h2 {}
@@ -38,11 +46,11 @@ p, h2, h3 {
 .main h2 {}
 
 .contenu {
-    font-size: 28px;
-	font-family: 'Gloria Hallelujah', cursive;
+    font-size: 20px;
+	font-family: 'Roboto', sans-serif;
 }
 
 .next, .pre {
-	font-size: 30px;
+	font-size: 20px;
 	text-align: center;
 }
